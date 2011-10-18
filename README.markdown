@@ -1,6 +1,8 @@
-Underscore.date is now moment
-=============================
+Underscore.date is now Moment.js
+================================
 
-underscore.date has been renamed 'moment'
+Underscore.date is no longer under active development.
 
-### [timrwood/moment](https://github.com/timrwood/moment)
+The project has been renamed [Moment.js](https://github.com/timrwood/moment) and all further development will happen there.
+
+So long, and thanks for all the fish.
